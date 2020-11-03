@@ -1,0 +1,57 @@
+# main links
+
+main:
+    - title: "Home"
+      url: /
+    - title: "Bio"
+      url: /bio/
+    - title: "Research"
+      url: /research/main
+    - title: "Software"
+      url: /resources/
+    - title: "Publications"
+      url: /publications/
+    - title: "Posts"
+      url: /posts_archive/
+          
+pages:
+  - title: "Research projects"
+    url: /research/main
+    children:
+      - title: "Phenomics of sexual conflict in damselflies"
+        url: /research/damselflies
+      - title: "Trophic diversification of Lake Victoria Cichlids"
+        url: /research/cichlids
+      - title: "Developmental plasticity of isopod pigmentation"
+        url: /research/isopods
+      - title: "Determinants of temporal variability in aquatic ecosystems"
+        url: /research/ecosystems
+
+  - title: "Software & resources"
+    children:
+      - title: "Sofware"
+        url: /resources/#software
+      - title: "How-to's"
+        url: /resources/#how-tos
+        
+  - title: "Publications"
+    children:
+      - title: "Publications"
+        url: /publications/#publications
+      - title: "Presentations"
+        url: /publications/#presentations
+      - title: "Posters"
+        url: /publications/#posters
+        
+  - title: "Posts"
+
+
+research_projects:
+  - title: "> Phenomics of sexual conflict in damselflies"
+    url: /research/damselflies
+  - title: "> Trophic diversification of Lake Victoria Cichlids"
+    url: /research/cichlids
+  - title: "> Developmental plasticity of isopod pigmentation"
+    url: /research/isopods
+  - title: "> Determinants of temporal variability in aquatic ecosystems"
+    url: /research/ecosystems
