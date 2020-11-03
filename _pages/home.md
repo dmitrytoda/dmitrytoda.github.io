@@ -34,6 +34,4 @@ Funded by two fellowships, I am currently working as a postdoc in the Svensson l
 
 To quantify sexual polymorphisms and phenotypic variation within and among populations I am using high throughput computer vision. With the resulting high dimensional phenotypic data, I am hoping to uncover the role of constraints, tradeoffs and evolvability in complex phenotypes, and to specify causal relationships between phenotypic, molecular, and environmental data.
 
----
-
 {% include feature_row %}
