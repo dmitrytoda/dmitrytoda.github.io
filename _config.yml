@@ -1,6 +1,7 @@
 
 # theme settings
 theme                    : "minimal-mistakes-jekyll"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
@@ -20,12 +21,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-titles-from-headings
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
+  - jekyll-remote-theme
 
 titles_from_headings:
   enabled:     false
