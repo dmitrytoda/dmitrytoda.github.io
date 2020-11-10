@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: narrow
 permalink: /publications/ 
 toc: true
 toc_sticky: true

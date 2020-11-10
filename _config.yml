@@ -1,6 +1,7 @@
 
 # theme settings
-remote_theme             : "mmistakes/minimal-mistakes"
+theme                    : "minimal-mistakes-jekyll"
+# remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
@@ -11,6 +12,8 @@ subtitle                 : Postdoctoral scholar
 name                     : "Moritz D. Lürig"
 description              : "Moritz D. Lürig"
 words_per_minute         : 200
+
+github: [metadata]
 
 # Build settings
 plugins:
@@ -136,3 +139,11 @@ sass:
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
