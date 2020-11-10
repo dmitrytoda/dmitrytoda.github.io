@@ -53,7 +53,7 @@ sidebar:
 
 Russo, S., <u><strong>M. D. Lürig</strong></u>,  W. Hao, B. Matthews, and K. Villez. 2020. Active learning for anomaly detection in environmental data. Environmental Modelling & Software 134:104869. [DOI](http://dx.doi.org/10.1016/j.envsoft.2020.104869){:target="_blank"}
 
-Leal, M. C., J. M. Anaya-Rojas, M. H. G. Munro, J. W. Blunt, C. J. Melian, R. Calado, <u><strong>M. D. Lürig</strong></u>. 2020. Fifty years of capacity building in the search for new marine natural products. [DOI](http://dx.doi.org/10.1073/pnas.2007610117){:target="_blank"}
+Leal, M. C., J. M. Anaya-Rojas, M. H. G. Munro, J. W. Blunt, C. J. Melian, R. Calado, <u><strong>M. D. Lürig</strong></u>. 2020. Fifty years of capacity building in the search for new marine natural products. Proceedings of the National Academy of Sciences 117(39):24165-24172 [DOI](http://dx.doi.org/10.1073/pnas.2007610117){:target="_blank"}
 
 ## 2019
 
