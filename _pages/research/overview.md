@@ -29,59 +29,15 @@ Specifically, I am interested in how evolutionary trajectories are affected by t
 I address my research questions using both outdoor and laboratory experiments, but I also use existing datasets to study the factors that shape phenotypic evolution. To collect high dimensional phenotypic data in high throughtput I use automated image analysis: computer vision is a versatile and efficient method for phenomics, allowing us to overcome manual image processing as a longstanding analytical bottleneck in ecology and evolution. 
 
 <style>
-	
-	.container-list{
-	display: flex;
-    justify-content: flex-start;
-	flex-direction: column;
-	padding:15px;
-	}
-	
-	.container-outer{
-	background-color: #353d4b;
-	padding: 10px;
-	border-radius: 5px;
-	margin-bottom:15px;
-
-	}
-	
-	.container-outer:hover{
-	background: #455062;
-	padding: 10px;
-	border-radius: 5px;
-	margin-bottom:15px;
-	}
-	
-	.container-inner {
-    display: flex;
-    justify-content: flex-start;
-	flex-direction: row 
-	}
-	
-	.img-prev {
-	object-fit: cover;
-	object-position: left;
-	width: 225px;
-	height: 135px;
-	border-radius: 5px;
-	}
-
-	.txt-box {
-	align-items: center;
-	height: 135px;
-	padding-left: 10px;
-	padding-right: 5px;
-	}
-	
 	h3 {
     margin-top: 0em;
-	}
-
 </style>
 
 <div class="container-list">
 	<div class="container-outer" onclick="location.href='/research/damselflies';" style="cursor: pointer;">
-		<h3>Phenomics of sexual conflict in damselflies</h3>
+		<div class="container-inner">
+			<h3>Phenomics of sexual conflict in damselflies</h3>
+		</div>
 		<div class="container-inner">
 			<img class="img-prev" src="/assets/images/damselfly_phenopype.jpg">
 			<div class="txt-box">
@@ -95,8 +51,8 @@ I address my research questions using both outdoor and laboratory experiments, b
 		<div class="container-inner">
 			<img class="img-prev" src="/assets/images/cichlid_teeth.png">
 			<div class="txt-box">
-			</div>
 			It took less than 15000 years for several hundred species of haplochromine cichlid species to evolve from a common ancestor within Lake Victoria. I am using computer vision to construct a classifier to map fossil teeth onto teeth from contemporary trophic guilds to investigate the speed and order of their emergence.
+			</div>
 		</div>
 	</div>
 
@@ -115,7 +71,7 @@ I address my research questions using both outdoor and laboratory experiments, b
 		<div class="container-inner">
 			<img class="img-prev" src="/assets/images/experiments/ponds1.jpg">
 			<div class="txt-box">
-			Submerged macrophytes are important foundation species that can strongly influence the structure and functioning of aquatic ecosystems, but only little is known about the temporal variation and resilience to perturbation of such effects. In a series of large scale outdoor experiments we quantified ecosystem effects of macrophytes using cutting-edge high frequency measurement technology.
+			Submerged macrophytes are important foundation species that can influence the structure and functioning of aquatic ecosystems over time and govern the response to perturbation. In a series of large scale outdoor experiments we quantified ecosystem effects of macrophytes using cutting-edge high frequency measurement technology.
 		</div>
 	</div>
 </div>

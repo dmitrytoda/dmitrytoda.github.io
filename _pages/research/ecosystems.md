@@ -33,23 +33,27 @@ Over the entire experiment, macrophytes had a negative effect on phytoplankton b
 
 *Accepted at Freswater biology*
 
-<center><div style="width:600px">
-<img src="/assets/images/sonde_paper1.png" style="padding-bottom: 10px">
-<p style="font:caption;text-align:justify"> 
+<div class="res-center">
+<div class="res-container">
+<img class="res-img" src="/assets/images/sonde_paper1.png">
+<div class="res-caption">
 Figure 1 - Left: High frequency measurements of chlorophyll-a and Phycocyanin over time: macrophytes increased the mean, but decreased the variance of phytoplankton biomass - a surprising result. Right: Average log response ratios (LRR) for macrophyte presence on mean and CV. Effect sizes were calculated differently for each data type: high frequency (●), metabolism (▲), or DOC point measurements (■) – for details refer to the methods section of our paper.
-</p></div></center>
+</div>
+</div>
+</div>
 
 Aquatic ecosystems worldwide are also strongly affected by an increasing frequency of external perturbations, like extreme climate events, invasive species, or altered nutrient dynamics. Foundation species, namely those that play a central role in the structuring of communities and functioning of ecosystems, are likely important for the resilience of aquatic ecosystems in the face of disturbance (Narwani et al. 2019). However, little is known about how interactions among such species influence ecosystem responses to nutrient perturbation. 
 
-<center><div style="width:500px">
-<img src="/assets/images/sonde_paper2.png" style="padding-bottom: 10px">
-<p style="font:caption;text-align:justify"> 
+<div class="res-center">
+<div class="res-container" style="width:500px">
+<img class="res-img" src="/assets/images/sonde_paper2.png">
+<div class="res-caption">
 Figure 2 - Effect of foundation species on the mean of ecosystem parameters before, during and after nutrient perturbations. The lines indicate the respective average of all four ponds per treatment per hour (mean ± SE), the gray shading indicates the disturbance phases, and the coloured bars underneath the time series indicate whether a treatment was significantly different from the control (one linear model per hour: (orange=Dreissena main effect [D treatment], green=Myriophyllum main effect [M treatment], purple=interactive effect [MD treatment]). The data stem from a seven day long sliding window (168 data points). The black line indicates the predicted additive response based on the sum of the separate macrophyte or mussels treatment with the control subtracted (e.g. (Macrophyte Chl + Dreissena Chl) - Control Chl = predicted additive response). 
-</p></div></center>
+</div>
+</div>
+</div>
 
 Using an array (N=20) of outdoor experimental pond ecosystems (15000 L - see above), we manipulated the presence of two foundation species, the macrophyte Myriophyllum spicatum and the mussel Dreissena polymorpha, and quantified ecosystem responses to multiple nutrient disturbances. Overall, both foundation species strongly affected the ecosystem responses to nutrient perturbation, and, as expected, initially suppressed the increase in phytoplankton abundance following nutrient additions. Surprisingly, however, when both species were present, phytoplankton biomass increased substantially relative to other treatment combinations, illustrating a non-additive antagonistic effect in response to nutrient perturbation (Fig. 2, top panels). Overall, these results demonstrate how interactions between foundation species can cause surprisingly strong deviations from the expected responses of aquatic ecosystems to nutrient additions. 
-
-
 
 *Currently in review*
 

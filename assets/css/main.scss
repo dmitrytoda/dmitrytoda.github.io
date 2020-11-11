@@ -13,8 +13,7 @@ $link-color-visited: mix(#000, $link-color, 25%) !default;
 @charset "utf-8";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-
+@import "custom";
 
 
 html {
@@ -73,6 +72,7 @@ figure {
 
 figure img, figure iframe, figure .fluid-width-video-wrapper {
     margin-bottom: 0em;
+	border-radius: 5px;
 }
 
 .sidebar p, .sidebar li {

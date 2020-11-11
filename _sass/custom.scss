@@ -1,0 +1,101 @@
+
+/* Images for research area */
+
+.res-center {
+display: flex;
+justify-content: center;
+}
+
+.res-container{
+display: flex;
+flex-direction: column;
+width: 600px;
+margin-bottom: 10px;
+}
+
+.res-img {
+border-radius: 5px;
+}
+
+.res-caption{
+text-align: justify;
+font-size: 12px;
+padding-top: 10px;
+}
+
+
+/* Responsive overview container list */
+
+.container-list{
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+padding:15px;
+}
+
+.container-outer{
+display: flex;
+flex-direction: column;
+background-color: #353d4b;
+padding: 10px;
+border-radius: 5px;
+margin-bottom:15px;
+
+}
+
+.container-outer:hover{
+display: flex;
+flex-direction: column;
+background: #455062;
+padding: 10px;
+border-radius: 5px;
+margin-bottom:15px;
+}
+
+.container-inner {
+display: flex;
+justify-content: flex-start;
+flex-direction: row;
+}
+
+.img-prev {
+object-fit: cover;
+object-position: left;
+width: 225px;
+height: 125px; 
+border-radius: 5px;
+}
+
+.txt-box {
+align-items: center;
+padding-left: 10px;
+padding-right: 5px;
+}
+
+@media screen and (max-width: 600px) {
+	.container-inner {
+	flex-direction: column;
+	}
+	
+	.img-prev {
+	width: auto;
+	height: 125px; 
+	}
+	
+	.txt-box {
+	padding: 10px 0px 0px 0px;
+	}
+}
+
+	@media screen  and (min-width: 601px) and (max-width: 1024px) {
+	
+	.img-prev {
+	width: 125px;
+	height: 85px; 
+	}
+	
+}
+	
+	
+
+

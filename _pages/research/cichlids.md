@@ -8,20 +8,25 @@ sidebar:
 
 Lake Victoria is the largest lake in Africa and harbored more than 500 endemic species of haplochromine cichlid fish. The lake not only was at a low stand but dried up completely during the Late Pleistocene, approx. 15000 years before present (Seehausen 2006). These results imply that the rate of speciation of cichlid fish in this tropical lake has been extremely rapid! However, only little is know about the exact order of emergence and respective speciation rates of the different trophic guilds (McGee et al 2020).
 
-
-<center><div style="width:600px">
-<img src="/assets/images/cichlids_LV.png" style="padding-bottom: 10px">
-<p style="font:caption;text-align:justify"> 
+<div class="res-center">
+<div class="res-container">
+<img class="res-img" src="/assets/images/cichlids_LV.png">
+<div class="res-caption">
 Figure 1 - Trophic diversity most likely evolved de-novo in modern Lake Victoria (Meier et al 2017): Sympatrically living, closely related species usually have male coloration at opposite ends of the color spectrum. Since mate choice is determined on the basis of coloration it is likely that strong assortative mating quickly lead to sexual isolation of color morphs (Seehausen 2006).
-</p></div></center>
+</div>
+</div>
+</div>
 
 I am using a combination of classic Machine Learning (shape features) and Deep Learning to construct a classifier that will help to map fossil teeth found in sediment cores onto contemporary trophic guilds. Using the temporal information from the sediment cores, as well as other data about the ancient lake communities, we are hoping to learn more about this adaptive radiation, which is among one of the most rapid cases of adaptive evolution.
 
-<center><div style="width:600px">
-<img src="/assets/images/cichlid_teeth.png" style="padding-bottom: 10px">
-<p style="font:caption;text-align:justify"> 
+<div class="res-center">
+<div class="res-container">
+<img class="res-img" src="/assets/images/cichlid_teeth.png">
+<div class="res-caption">
 Figure 2 - We are using high throughput phenotyping of extant tooth phenotypes from Lake Victoria cichlids to create a reference collection.
-</p></div></center>
+</div>
+</div>
+</div>
 
 ## Literature 
 
