@@ -20,6 +20,11 @@ sidebar:
   height: 60px;
   margin: 0 8px;
 }
+
+.page__content {
+  text-align: left;
+}
+
 </style>
 
 <div class="box">
