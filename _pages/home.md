@@ -8,7 +8,7 @@ feature_row:
   - image_path: /assets/images/thumbs/research.png
     title: "Research topics"
     excerpt: "Phenomics of female colour polymorphisms in damselflies; trophic diversification of cichlids; developmental plasticity in freshwater isopods; ..."
-    url: "/research/main"
+    url: "/research/overview"
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: /assets/images/thumbs/software.png

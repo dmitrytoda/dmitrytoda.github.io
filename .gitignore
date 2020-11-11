@@ -3,4 +3,5 @@ _site
 .jekyll-cache
 .jekyll-metadata
 .local
+bundler.bat
 vendor

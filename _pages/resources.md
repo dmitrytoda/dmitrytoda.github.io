@@ -17,7 +17,7 @@ phenopype is a high throughput phenotyping package for the programming language 
 The Python package is in beta stage and currently under code-review by the pyOpenSci community. Visit the **[package homepage](https://mluerig.github.io/phenopype/){:target="_blank"}** to get started!
 
 
-# How-to's
+# Guides
 
 ## Interactive plotting in R and Python
 **[https://github.com/mluerig/Interactive-plotting-platforms](https://github.com/mluerig/Interactive-plotting-platforms){:target="_blank"}** <br> A virtual presentation I gave at Eawag's first symposium of reproducible research, organized by Carlos Melian. 

@@ -60,6 +60,21 @@ html {
   }
 }
 
+figure {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin: 1em 0;
+}
+
+figure img, figure iframe, figure .fluid-width-video-wrapper {
+    margin-bottom: 0em;
+}
+
 .sidebar p, .sidebar li {
     font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
     font-size: .85em;
