@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /calligrahy/
+permalink: /calligraphy/
 author_profile: true
 
 gallery:
