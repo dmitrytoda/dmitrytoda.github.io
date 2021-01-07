@@ -2,7 +2,7 @@
 # theme settings
 # theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "air" # "dark", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "en-US"
@@ -48,6 +48,7 @@ author:
   links:
     - label: "Vancouver, BC"
       icon: "fas fa-2x fa-fw fa-map-marker-alt"
+      url: "https://goo.gl/maps/dDSS5zqqT8JTHRa57"
     - label: "Email"
       icon: "fas fa-2x fa-fw fa-envelope"
       url: "mailto:dmitry.m.dolgov [at] gmail.com"
