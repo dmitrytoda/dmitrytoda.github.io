@@ -31,12 +31,12 @@ I actually did a lot, like a lot of project management: waterfall, agile and so 
 </style>
 
 <div class="container-list">
-	<div class="container-outer" onclick="location.href='/pm/damselflies';" style="cursor: pointer;">
+	<div class="container-outer" onclick="location.href='/homepage/pm/damselflies';" style="cursor: pointer;">
 		<div class="container-inner">
 			<h3>Still damselflies</h3>
 		</div>
 		<div class="container-inner">
-			<img class="img-prev" src="/assets/images/damselfly_phenopype.jpg">
+			<img class="img-prev" src="/homepage/assets/images/damselfly_phenopype.jpg">
 			<div class="txt-box">
 			The common bluetail damselfly (<i>Ischnura elegans</i>) exhibits unusuably stable female-limited colour polymorphisms. I am investigating signals of correlational selection on colouration and morphology in response to balancing selection and environmental conditions within and across different Swedish populations.
 			</div>
@@ -53,10 +53,10 @@ I actually did a lot, like a lot of project management: waterfall, agile and so 
 		</div>
 	</div>
 
-	<div class="container-outer" onclick="location.href='/pm/forgerock';" style="cursor: pointer;">
+	<div class="container-outer" onclick="location.href='/homepage/pm/forgerock';" style="cursor: pointer;">
 		<h3>ForgeRock</h3>
 		<div class="container-inner">
-			<img class="img-prev" src="/assets/images/study_systems/asellus1.jpg">
+			<img class="img-prev" src="/homepage/assets/images/study_systems/asellus1.jpg">
 			<div class="txt-box">
 			I upgraded ForgeRock for Scotiabank
 			</div>

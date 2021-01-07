@@ -20,7 +20,7 @@ pages:
     children:
       - title: "Overview"
         url: /pm/overview
-      - title: "Phenomics of sexual conflict in damselflies"
+      - title: "damselflies after update"
         url: /pm/damselflies
       - title: "Trophic diversification of Lake Victoria Cichlids"
         url: /pm/cichlids
