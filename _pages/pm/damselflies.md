@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /research/damselflies
+permalink: /pm/damselflies
 sidebar:
   nav: pages
 ---
