@@ -5,8 +5,8 @@ main:
       url: /
     - title: "Data Science"
       url: /datascience/
-    - title: "Research"
-      url: /research/overview
+    - title: "Project Management"
+      url: /pm/overview
     - title: "Resources"
       url: /resources/
     - title: "Publications"
@@ -15,19 +15,19 @@ main:
       url: /posts_archive/
           
 pages:
-  - title: "Research"
-    url: /research/overview
+  - title: "Project Management"
+    url: /pm/overview
     children:
       - title: "Overview"
-        url: /research/overview
+        url: /pm/overview
       - title: "Phenomics of sexual conflict in damselflies"
-        url: /research/damselflies
+        url: /pm/damselflies
       - title: "Trophic diversification of Lake Victoria Cichlids"
-        url: /research/cichlids
+        url: /pm/cichlids
       - title: "Isopod pigmentation: developmental plasticity and selection"
-        url: /research/isopods
+        url: /pm/isopods
       - title: "Determinants of temporal variability in aquatic ecosystems"
-        url: /research/ecosystems
+        url: /pm/ecosystems
 
   - title: "Resources"
     children:
