@@ -4,14 +4,6 @@ permalink: /datascience/
 author_profile: true
 ---
 
-<head>
-	<script>
-	  function resizeIframe(obj) {
-		obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
-	  }
-	</script>
-</head>
-
 @@ The story about me becoming a data scientist comes here
 
 # SwiftPredict
@@ -36,8 +28,9 @@ This is a basic description of a predictive ngram model that I implemented as a 
 
 Feel free to read the (very long) [R notebook](/homepage/_pages/swiftpredict.html) that describes everything I did step by step: exploratory data analysis, model building, selection and evaluation, with plots and code. Or to check out my github repository: [github.com/dmitrytoda/SwiftPredict](https://github.com/dmitrytoda/SwiftPredict). Or to play with the Shiny app right here:
 
-<div class="h_iframe">
-	<iframe src="https://dmitrytoda.shinyapps.io/SwiftPredict/" frameborder="0" allowfullscreen scrolling="no" onload="resizeIframe(this)" />
+<div class="shiny-container">
+	<iframe src="https://dmitrytoda.shinyapps.io/SwiftPredict/" height="315" width="560" allowfullscreen="" frameborder="0">
+	</iframe>
 </div>
 
 # Some other project
