@@ -10,7 +10,7 @@ author_profile: true
 
 You know _how_ your mobile keyboard suggests you the next word you want to type? There are several algorithms that may be used for that. One option is to presume that next word in a text only depends on a few previous words (a more specific version of [Markov's assumption](https://en.wikipedia.org/wiki/Causal_Markov_condition#:~:text=The%20Markov%20condition%2C%20sometimes%20called,do%20not%20descend%20from%20it.)). Then, given enough information on what words usually appear in the text together, we can predict what the next word is likely to be, based on the preceding few words.
 
-This is a basic description of a predictive ngram model that I implemented as a capstone project for [Data Science Specializaiton](https://www.coursera.org/specializations/jhu-data-science) at Johns Hopkins University, using a data set provided by [SwiftKey](https://www.microsoft.com/en-us/swiftkey?activetab=pivot_1%3aprimaryr2). 
+This is a basic description of a predictive ngram model that I implemented as a capstone project for [Data Science Specializaiton](https://www.coursera.org/specializations/jhu-data-science) at Johns Hopkins University, using a data set provided by [SwiftKey](https://www.microsoft.com/en-us/swiftkey?activetab=pivot_1%3aprimaryr2). (ngram is but a sequence of n words together in a text)
 
 - **Technology:** Implemented in R using [quanteda](https://quanteda.io/) package for text mining and [data.table](https://cran.r-project.org/web/packages/data.table/index.html) for data storage and search optimization
 - **Data set:** plain text files harvested from Twitter, blogs and news sites
@@ -26,7 +26,15 @@ This is a basic description of a predictive ngram model that I implemented as a 
 	2. Response time 22 msec
 	3. Uses 219 MB of RAM when running
 
-[>>Here<<](/homepage/_pages/swiftpredict.html) you can see a (very long) R notebook that describes everything I did step by step: exploratory data analysis, model building, selection and evaluation, with plots and code.
+Feel free to read the (very long) [R notebook](/homepage/_pages/swiftpredict.html) that describes everything I did step by step: exploratory data analysis, model building, selection and evaluation, with plots and code. Or to check out my github repository: [github.com/dmitrytoda/SwiftPredict](https://github.com/dmitrytoda/SwiftPredict). Or to play with the Shiny app right here:
+
+<iframe src="https://dmitrytoda.shinyapps.io/SwiftPredict/">
+ <p>
+    <a href="https://dmitrytoda.shinyapps.io/SwiftPredict/">
+       Fallback link for browsers that don't support iframes
+    </a>
+  </p>
+</iframe>
 
 # Some other project
 1. Short description
