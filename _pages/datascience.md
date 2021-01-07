@@ -28,13 +28,10 @@ This is a basic description of a predictive ngram model that I implemented as a 
 
 Feel free to read the (very long) [R notebook](/homepage/_pages/swiftpredict.html) that describes everything I did step by step: exploratory data analysis, model building, selection and evaluation, with plots and code. Or to check out my github repository: [github.com/dmitrytoda/SwiftPredict](https://github.com/dmitrytoda/SwiftPredict). Or to play with the Shiny app right here:
 
-<iframe src="https://dmitrytoda.shinyapps.io/SwiftPredict/">
- <p>
-    <a href="https://dmitrytoda.shinyapps.io/SwiftPredict/">
-       Fallback link for browsers that don't support iframes
-    </a>
-  </p>
-</iframe>
+<div class="h_iframe">
+	<iframe src="https://dmitrytoda.shinyapps.io/SwiftPredict/" frameborder="0" allowfullscreen>
+	</iframe>
+</div>
 
 # Some other project
 1. Short description
