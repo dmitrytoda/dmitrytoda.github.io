@@ -4,16 +4,16 @@ permalink: /calligraphy/
 author_profile: true
 
 gallery:
-  - url: /homepage/assets/images/calligrahy/gao.jpg
-    image_path: /homepage/assets/images/calligrahy/gao.jpg
+  - url: /assets/images/calligrahy/gao.jpg
+    image_path: /assets/images/calligrahy/gao.jpg
     alt: "高"
     title: "高"
-  - url: /homepage/assets/images/calligrahy/xue.jpg
-    image_path: /homepage/assets/images/calligrahy/xue.jpg
+  - url: /assets/images/calligrahy/xue.jpg
+    image_path: /assets/images/calligrahy/xue.jpg
     alt: "学"
     title: "学"
-  - url: /homepage/assets/images/calligrahy/sheng.jpg
-    image_path: /homepage/assets/images/calligrahy/sheng.jpg
+  - url: /assets/images/calligrahy/sheng.jpg
+    image_path: /assets/images/calligrahy/sheng.jpg
     alt: "生"
     title: "生"
 ---
