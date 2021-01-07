@@ -7,10 +7,6 @@ main:
       url: /datascience/
     - title: "Project Management"
       url: /pm/overview
-    - title: "Resources"
-      url: /resources/
-    - title: "Publications"
-      url: /publications/
     - title: "Posts"
       url: /posts_archive/
           
@@ -24,13 +20,6 @@ pages:
         url: /pm/damselflies
       - title: "ForgeRock upgrade for Scotiabank"
         url: /pm/forgerock
-
-  - title: "Resources"
-    children:
-      - title: "Sofware"
-        url: /resources/#software
-      - title: "Guides"
-        url: /resources/#Guides
         
   - title: "Volunteering"
     children:
