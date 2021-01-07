@@ -22,12 +22,8 @@ pages:
         url: /pm/overview
       - title: "damselflies after update"
         url: /pm/damselflies
-      - title: "Trophic diversification of Lake Victoria Cichlids"
-        url: /pm/cichlids
       - title: "ForgeRock upgrade for Scotiabank"
         url: /pm/forgerock
-      - title: "Determinants of temporal variability in aquatic ecosystems"
-        url: /pm/ecosystems
 
   - title: "Resources"
     children:
@@ -36,13 +32,7 @@ pages:
       - title: "Guides"
         url: /resources/#Guides
         
-  - title: "Publications"
+  - title: "Volunteering"
     children:
-      - title: "Publications"
-        url: /publications/#publications
-      - title: "Presentations"
-        url: /publications/#presentations
-      - title: "Posters"
-        url: /publications/#posters
-        
-  - title: "Posts"
+      - title: "PMP exam development"
+        url: /volunteering

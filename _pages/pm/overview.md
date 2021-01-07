@@ -43,16 +43,6 @@ I actually did a lot, like a lot of project management: waterfall, agile and so 
 		</div>
 	</div>
 
-	<div class="container-outer" onclick="location.href='/pm/cichlids';" style="cursor: pointer;">
-		<h3>Trophic diversification of Lake Victoria Cichlids</h3>
-		<div class="container-inner">
-			<img class="img-prev" src="/assets/images/cichlid_teeth.png">
-			<div class="txt-box">
-			It took less than 15000 years for several hundred species of haplochromine cichlid species to evolve from a common ancestor within Lake Victoria. I am using computer vision to construct a classifier to map fossil teeth onto teeth from contemporary trophic guilds to investigate the speed and order of their emergence.
-			</div>
-		</div>
-	</div>
-
 	<div class="container-outer" onclick="location.href='/homepage/pm/forgerock';" style="cursor: pointer;">
 		<h3>ForgeRock</h3>
 		<div class="container-inner">
@@ -62,13 +52,3 @@ I actually did a lot, like a lot of project management: waterfall, agile and so 
 			</div>
 		</div>
 	</div>
-
-	<div class="container-outer" onclick="location.href='/pm/ecosystems';" style="cursor: pointer;">
-		<h3>Determinants of temporal variability in aquatic ecosystem</h3>
-		<div class="container-inner">
-			<img class="img-prev" src="/assets/images/experiments/ponds1.jpg">
-			<div class="txt-box">
-			Submerged macrophytes are important foundation species that can influence the structure and functioning of aquatic ecosystems over time and govern the response to perturbation. In a series of large scale outdoor experiments we quantified ecosystem effects of macrophytes using cutting-edge high frequency measurement technology.
-		</div>
-	</div>
-</div>
