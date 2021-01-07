@@ -7,6 +7,10 @@ main:
       url: /datascience/
     - title: "Project Management"
       url: /pm/overview
+    - title: "CV"
+      url: /cv
+    - title: "Calligraphy"
+      url: /calligraphy
     - title: "Posts"
       url: /posts_archive/
           
