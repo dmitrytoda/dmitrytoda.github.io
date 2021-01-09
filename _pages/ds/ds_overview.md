@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /ds/overview
+permalink: /ds
 sidebar:
   - nav: sidebar-ds
 ---

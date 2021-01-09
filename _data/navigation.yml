@@ -4,9 +4,9 @@ main:
     - title: "Home"
       url: /
     - title: "Data Science"
-      url: /ds/overview
+      url: /ds
     - title: "Project Management"
-      url: /pm/overview
+      url: /pm
     - title: "CV"
       url: /cv
     - title: "Calligraphy"
