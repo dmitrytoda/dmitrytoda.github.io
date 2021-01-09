@@ -4,7 +4,7 @@ main:
     - title: "Home"
       url: /
     - title: "Data Science"
-      url: /datascience/
+      url: /ds/overview
     - title: "Project Management"
       url: /pm/overview
     - title: "CV"
@@ -15,6 +15,18 @@ main:
       url: /posts_archive/
           
 pages:
+  - title: "Swift Predict"
+    children:
+      - title: "Overview"
+        url: /ds/SwiftPredict
+      - title: "Web app"
+        url: /ds/SwiftPredict/UI
+      - title: "R notebook"
+        url: /ds/SwiftPredict/notebook
+  - title: "Other Project"
+    children:
+      - title: "Overview"
+        url: /ds/OtherProject
   - title: "Project Management"
     url: /pm/overview
     children:
