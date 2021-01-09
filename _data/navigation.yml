@@ -14,7 +14,7 @@ main:
     - title: "Posts"
       url: /posts_archive/
           
-pages:
+sidebar-ds:
   - title: "Swift Predict"
     children:
       - title: "Overview"
@@ -22,22 +22,40 @@ pages:
       - title: "Web app"
         url: /ds/SwiftPredict/UI
       - title: "R notebook"
-        url: /ds/SwiftPredict/notebook
+        url: /ds/SwiftPredict/sp_notebook
+      - title: "Github repo"
+        icon: "fab fa-2x fa-fw fa-github"
+        url: https://github.com/dmitrytoda/SwiftPredict
   - title: "Other Project"
     children:
       - title: "Overview"
         url: /ds/OtherProject
+
+sidebar-pm:
   - title: "Project Management"
-    url: /pm/overview
+    url: /pm
     children:
       - title: "Overview"
-        url: /pm/overview
-      - title: "damselflies after update"
-        url: /pm/damselflies
+        url: /pm
       - title: "ForgeRock upgrade for Scotiabank"
-        url: /pm/forgerock
+        url: /pm/#forgerock-upgrade-for-scotiabank
+      - title: "Pennsylvania gambling market"
+        url: pm/#pennsylvania-regulated-gambling-market        
+      - title: "Fusion game for PokerStars"
+        url: /pm/#fusion-game-for-pokerstars
+      - title: "Credential management for Falabella"
+        url: pm/#credential-management-for-falabella
+      - title: "Business intelligence for Russian bank"
+        url: /pm/#business-intelligence-for-a-top-10-russian-bank
+      - title: "Compliance for General Electric"
+        url: pm/#compliance-for-general-electric
+      - title: "Collateral management for Raiffeisen"
+        url: pm/#collateral-management-for-raiffeisen-bank
+      - title: "CRM for Deutsche bank"
+        url: /pm/#crm-for-deutsche-bank
         
   - title: "Volunteering"
+    url: /volunteering
     children:
       - title: "PMP exam development"
         url: /volunteering

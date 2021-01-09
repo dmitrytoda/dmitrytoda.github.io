@@ -41,9 +41,9 @@ author:
   name             : Dmitry Dolgov
   avatar           : /assets/images/coastal_trail.jpg
   bio: 
-    Data scientist
-    <br> 
-    and project manager
+    Data manager and project scientist
+    <br>
+    or is it the other way around?
     
   links:
     - label: "Vancouver, BC"
@@ -52,12 +52,16 @@ author:
     - label: "Email"
       icon: "fas fa-2x fa-fw fa-envelope"
       url: "mailto:dmitry.m.dolgov [at] gmail.com"
-    - label: "Instagram"
-      icon: "fab fa-2x fa-fw fa-instagram"
-      url: "https://www.instagram.com/dmitrytoda/"
+    - label: "LinkedIn"
+      icon: "fab fa-2x fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/dmdolgov/"    
     - label: "GitHub"
       icon: "fab fa-2x fa-fw fa-github"
       url: "https://github.com/dmitrytoda"
+    - label: "Instagram"
+      icon: "fab fa-2x fa-fw fa-instagram"
+      url: "https://www.instagram.com/dmitrytoda/"
+
       
 footer:
   links:

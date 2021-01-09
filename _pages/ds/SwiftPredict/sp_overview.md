@@ -2,7 +2,7 @@
 layout: single
 permalink: /ds/SwiftPredict
 sidebar:
-  nav: pages
+  - nav: sidebar-ds
 ---
 
 # SwiftPredict

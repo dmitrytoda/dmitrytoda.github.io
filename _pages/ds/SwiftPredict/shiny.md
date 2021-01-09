@@ -2,7 +2,7 @@
 layout: single
 permalink: /ds/SwiftPredict/UI
 sidebar:
-  nav: pages
+  - nav: sidebar-ds
 ---
 
 <div class="shiny-container">
