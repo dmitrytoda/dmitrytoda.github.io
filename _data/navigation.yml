@@ -11,8 +11,8 @@ main:
       url: /cv
     - title: "Calligraphy"
       url: /calligraphy
-    - title: "Posts"
-      url: /posts_archive/
+    - title: "Classical Chinese"
+      url: /wenyan/
           
 sidebar-ds:
   - title: "Swift Predict"
@@ -26,11 +26,16 @@ sidebar-ds:
       - title: "Github repo"
         icon: "fab fa-2x fa-fw fa-github"
         url: https://github.com/dmitrytoda/SwiftPredict
-  - title: "Other Project"
-    children:
-      - title: "Overview"
-        url: /ds/OtherProject
+  # - title: "Other Project"
+    # children:
+      # - title: "Overview"
+        # url: /ds/OtherProject
 
+
+# sidebar-deepcal: # deep calligraphy: goes on DS and on calligraphy pages
+  # - title: "Deep callligraphy"
+    # url: /calligraphy/#deep-learning-for-chinese-calligraphy  
+        
 sidebar-pm:
   - title: "Project Management"
     url: /pm
@@ -52,10 +57,16 @@ sidebar-pm:
       - title: "Collateral management for Raiffeisen"
         url: pm/#collateral-management-for-raiffeisen-bank
       - title: "CRM for Deutsche bank"
-        url: /pm/#crm-for-deutsche-bank
-        
+        url: /pm/#crm-for-deutsche-bank       
   - title: "Volunteering"
     url: /volunteering
     children:
       - title: "PMP exam development"
         url: /volunteering
+        
+sidebar-art:
+  - title: "Calligraphy artwork"
+    url: /calligraphy
+    children:
+      - title: "Mountain road 山行"
+        url: /calligraphy/#mountain-road-山行

@@ -32,6 +32,7 @@ ForgeRock is an identity and access management platform.
 * Scope: upgrading the platform, developing new features, installing extra servers in UAT and production, deployment, and business acceptance by channels
 * Stakeholders: GIAM (Global Identity and Access Management) department, PLATO (PLATform Organization - technical owner of the system), ForgeRock (the system vendor), PMO, ECCO (procurement department), DBA
 * Technology: ForgeRock, Oracle
+* PM tools: Jira, Confluence, MS Project, CA PPM
 
 ### Results
 
@@ -56,7 +57,8 @@ The project had an unmovable launch date of Nov 4, 2019, in order to not only be
 * Team: over 20 software developers, QA, graphical artists, DBA and DevOps
 * Scope: implementing all regulatory requirements (legal age, self-exclusion, information disclosure, information storage etc) for online poker, casino and sports betting on desktop, mobile and web
 * External stakeholders: PGCB (Pennsylvania Gaming Control Board)
-* Technology: @@
+* Technology: C, Java, DB2, Android, iOS, Jenkins
+* PM tools: Jira, Confluence (you'd be surprised how much you can do with just these two)
 
 ### Results
 
@@ -64,37 +66,45 @@ Real money offering successfully launched on Nov 4, 2019, making PokerStars the 
 
 ## Fusion game for PokerStars
 
-### Business problem
-### Project summary
-### Results
+2018\. New Fusion game increased overall cash games revenue by 9%.
 
 ## Credential management for Falabella	
 
-### Business problem
-### Project summary
+2015-16. Integration of new credentials managements system into banking IT landscape using Oracle Service Bus platform in Service-Oriented Architecture (SOA). 
+
 ### Results
+
+Security enhancement due to new user authentication mechanism. False-positive rate reduction (precision raised by 12%).
 
 ## Business intelligence for a Top-10 Russian bank
 
-### Business problem
-### Project summary
+2014\. Implementation of business intelligence and financial analytics system, including building of ETL, data warehouse and reporting engine. 
+
 ### Results
+
+50% decrease in manual labor preparing regulatory financial reports.
 
 ## Compliance for General Electric
 
-### Business problem
-### Project summary
+2012-13. Automation of compliance division business processes by delivery of Alfresco BPM (Business Process Management). 
+
 ### Results
+
+Slashed deal approval processing time by 20%. “Best project of the year” corporate award in 2013.
 
 ## Collateral management for Raiffeisen bank
 
-### Business problem
-### Project summary
+2012-13. Delivery of Loxon Collateral Management System.  
+
 ### Results
+
+Improvement of the efficiency of capital allocation through up-to-date, better quality data for decisions.
 
 ## CRM for Deutsche bank
 
-### Business problem
-### Project summary
+2009-11. Development of a CRM (Customer Relationship Management system) for Corporate Finance division. 
+
 ### Results
+
+Successful implementation of a real-time CRM system providing a 360° view of customer information to over 9000 users.
 

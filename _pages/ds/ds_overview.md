@@ -35,6 +35,7 @@ Some projects that I've done:
 		</div>
 	</div>
 
+	<!---
 	<div class="container-outer" onclick="location.href='/ds/OtherProject';" style="cursor: pointer;">
 		<h3>Some other project</h3>
 		<div class="container-inner">
@@ -44,6 +45,7 @@ Some projects that I've done:
 			</div>
 		</div>
 	</div>
+	--->
 </div>
 	
 Formal education:
