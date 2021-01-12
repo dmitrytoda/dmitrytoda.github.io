@@ -68,9 +68,17 @@ Real money offering successfully launched on Nov 4, 2019, making PokerStars the 
 
 2018\. New Fusion game increased overall cash games revenue by 9%.
 
-## Credential management for Falabella	
+## Credential management for Falabella
 
-2015-16. Integration of new credentials managements system into banking IT landscape using Oracle Service Bus platform in Service-Oriented Architecture (SOA). 
+<p align="center">
+<img src="/assets/images/logos/falabella.png">
+</p>
+
+2015-16. Integration of new credentials managements system into banking IT landscape using Service-Oriented Architecture (SOA).
+
+### Technology
+
+Oracle Service Bus middleware, VU security platfrom. 
 
 ### Results
 
@@ -86,6 +94,10 @@ Security enhancement due to new user authentication mechanism. False-positive ra
 
 ## Compliance for General Electric
 
+<p align="center">
+<img src="/assets/images/logos/ge.png" width="100">
+</p>
+
 2012-13. Automation of compliance division business processes by delivery of Alfresco BPM (Business Process Management). 
 
 ### Results
@@ -94,6 +106,10 @@ Slashed deal approval processing time by 20%. “Best project of the year” cor
 
 ## Collateral management for Raiffeisen bank
 
+<p align="center">
+<img src="/assets/images/logos/raiffeisen.png" width="300">
+</p>
+
 2012-13. Delivery of Loxon Collateral Management System.  
 
 ### Results
@@ -101,6 +117,10 @@ Slashed deal approval processing time by 20%. “Best project of the year” cor
 Improvement of the efficiency of capital allocation through up-to-date, better quality data for decisions.
 
 ## CRM for Deutsche bank
+
+<p align="center">
+<img src="/assets/images/logos/deutsche.jpg" width="300">
+</p>
 
 2009-11. Development of a CRM (Customer Relationship Management system) for Corporate Finance division.
 
