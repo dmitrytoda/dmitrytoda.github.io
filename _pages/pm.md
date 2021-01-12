@@ -71,7 +71,7 @@ Real money offering successfully launched on Nov 4, 2019, making PokerStars the 
 ## Credential management for Falabella
 
 <p align="center">
-<img src="/assets/images/logos/falabella.png">
+<img src="/assets/images/logos/falabella.png"  height="100">
 </p>
 
 2015-16. Integration of new credentials managements system into banking IT landscape using Service-Oriented Architecture (SOA).
@@ -95,7 +95,7 @@ Security enhancement due to new user authentication mechanism. False-positive ra
 ## Compliance for General Electric
 
 <p align="center">
-<img src="/assets/images/logos/ge.png" width="100">
+<img src="/assets/images/logos/ge.png"  height="100" width="100">
 </p>
 
 2012-13. Automation of compliance division business processes by delivery of Alfresco BPM (Business Process Management). 
@@ -107,7 +107,7 @@ Slashed deal approval processing time by 20%. “Best project of the year” cor
 ## Collateral management for Raiffeisen bank
 
 <p align="center">
-<img src="/assets/images/logos/raiffeisen.png" width="300">
+<img src="/assets/images/logos/raiffeisen.png"  height="100">
 </p>
 
 2012-13. Delivery of Loxon Collateral Management System.  
@@ -119,7 +119,7 @@ Improvement of the efficiency of capital allocation through up-to-date, better q
 ## CRM for Deutsche bank
 
 <p align="center">
-<img src="/assets/images/logos/deutsche.jpg" width="300">
+<img src="/assets/images/logos/deutsche.jpg"  height="100">
 </p>
 
 2009-11. Development of a CRM (Customer Relationship Management system) for Corporate Finance division.
