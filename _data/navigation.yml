@@ -26,10 +26,14 @@ sidebar-ds:
       - title: "Github repo"
         icon: "fab fa-2x fa-fw fa-github"
         url: https://github.com/dmitrytoda/SwiftPredict
-  # - title: "Other Project"
-    # children:
-      # - title: "Overview"
-        # url: /ds/OtherProject
+  - title: "Ships detection"
+    children:
+      - title: "Overview"
+        url: /ds/Ships
+      - title: "Jupyter notebook"
+        url: /ds/Ships/ships_notebook
+      - title: "Github repo"
+        url: https://github.com/dmitrytoda/ships
 
 
 # sidebar-deepcal: # deep calligraphy: goes on DS and on calligraphy pages
