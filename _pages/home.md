@@ -30,7 +30,7 @@ My latest projects:
 		</div>
 	</div>
 	
-	<div class="container-outer" onclick="location.href='/ds/SwiftPredict';" style="cursor: pointer;">
+	<div class="container-outer" onclick="location.href='/ds/Ships';" style="cursor: pointer;">
 		<div class="container-inner">
 			<h3>Ships detection in satellite imagery</h3>
 		</div>
