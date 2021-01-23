@@ -15,7 +15,7 @@ In 2007, when I got my degree in Applied Mathematics from Moscow Institute of Ph
 	- Technology: TensorFlow, Keras
 * **Statistical inference**: hypothesis testing, regression models
 
-Some projects that I've done:
+### Some projects that I've done:
 
 <style>
 	h3 {
@@ -34,21 +34,21 @@ Some projects that I've done:
 			</div>
 		</div>
 	</div>
-
-	<!---
-	<div class="container-outer" onclick="location.href='/ds/OtherProject';" style="cursor: pointer;">
-		<h3>Some other project</h3>
+	
+	<div class="container-outer" onclick="location.href='/ds/SwiftPredict';" style="cursor: pointer;">
 		<div class="container-inner">
-			<img class="img-prev" src="/assets/images/study_systems/asellus1.jpg">
+			<h3>Ships detection in satellite imagery</h3>
+		</div>
+		<div class="container-inner">
+			<img class="img-prev" src="/assets/images/ships/thumb.png">
 			<div class="txt-box">
-			@@ A super brief pitch of some other project
+			<big>96.77% F1 score</big> detecting ships in satellite imagery with imbalanced classes, using transfer learning with VGG16 and Inception v3 CNNs
 			</div>
 		</div>
 	</div>
-	--->
 </div>
 	
-Formal education:
+### Formal education:
 * Specialization in Data Science, Johns Hopkins University, 2021 (expected)
 * Specialization in Deep Learning, [deeplearning.ai](https://coursera.org/share/44d344705c4c0e3ae0236fba7f54eea0), 2020
 * Bachelor's degree in Applied Mathematics, Moscow Institute of Physics and Technology ([MIPT](https://mipt.ru/english/)), 2007
