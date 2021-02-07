@@ -18,6 +18,18 @@ My latest projects:
 </style>
 
 <div class="container-list">
+	<div class="container-outer" onclick="location.href='/ds/WordAlign';" style="cursor: pointer;">
+		<div class="container-inner">
+			<h3>WordAlign</h3>
+		</div>
+		<div class="container-inner">
+			<img class="img-prev" src="/assets/images/wordalign/mapping.png">
+			<div class="txt-box">
+			<big>Word alignment for Russian-Chinese bitext</big> using BERT contextualized embeddings and further fine-tuning on unique parallel corpus
+			</div>
+		</div>
+	</div>
+	
 	<div class="container-outer" onclick="location.href='/ds/SwiftPredict';" style="cursor: pointer;">
 		<div class="container-inner">
 			<h3>SwiftPredict</h3>

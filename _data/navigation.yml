@@ -15,6 +15,10 @@ main:
       url: /wenyan/
           
 sidebar-ds:
+  - title: "Word Align"
+    children:
+      - title: "Overview"
+        url: /ds/WordAlign
   - title: "Swift Predict"
     children:
       - title: "Overview"
