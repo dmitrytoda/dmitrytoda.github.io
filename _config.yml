@@ -39,7 +39,7 @@ analytics:
 # Site Author
 author:
   name             : Dmitry Dolgov
-  avatar           : /assets/images/coastal_trail.jpg
+  avatar           : /assets/images/beard.jpg
   bio: 
     Data manager and project scientist
     <br>
@@ -51,7 +51,7 @@ author:
       url: "https://goo.gl/maps/dDSS5zqqT8JTHRa57"
     - label: "Email"
       icon: "fas fa-2x fa-fw fa-envelope"
-      url: "mailto:dmitry.m.dolgov [at] gmail.com"
+      url: "mailto:dmitry.m.dolgov@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-2x fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/dmdolgov/"    
