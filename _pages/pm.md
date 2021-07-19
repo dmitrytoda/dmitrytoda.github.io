@@ -15,8 +15,34 @@ I hold PSM (Professional Scrum Master) and PMP (Project Management Professional)
 
 # Portfolio
 
-## ForgeRock upgrade for Scotiabank
+## Demand prediction and visualization for lululemon
 
+### Business problem
+
+The retail brand needs to know how many units of women's yoga pants of such model, size and colour will be sold in such store on such date. This spans several thousand SKUs, 400+ physical stores and multiple e-commerce selling points, and due to fashion industry reality, the forecast is needed for a year and a half into the future (such is the seasonal "design - manufacture - deliver from China - sell - rebuy" product lifecycle). The prediction is needed both in-season (for items with sales history) and pre-season (for items that have never been sold before: need to make something out of nothing).
+
+Once the prediction is in place, business needs to know how accurate it is, and it has to be presented as a Data Science Workbench via Plotly Dash charts, comparing the forecast and actual sales using MAPE (mean absolute percentage error).
+
+### Project summary
+
+* Duration: 5 months (March - July 2021)
+* Teams: 
+    * Demand prediction: 3 data engineers, 2 business analysts, 3 QA, product owner
+	* Forecast visualization: technology manager, 3 more data engineers
+	* Collaboration with: data science, devops, architecture, reporting, DBA, integration
+* Part of a larger 6 track data flow program, managed in SAFe methodology with 4 week sprints and 3 sprint program increments
+* Technology stack: AWS (S3, Glue, Athena, EKS, EC2), Python, PySpark, Kafka, AirFlow, Plotly Dash, PostgreSQL, PowerBI
+* Underlying data science: 
+	* linear regression model using weighed recursive least squares
+	* econometric prediction explaining the demand in terms of base sales rates and demand factors
+	* model coefficients taking into account seasonality and holiday effects
+	* data sets of 13 Gb per quarter with multiple quarters used for prediction
+* PM tools: Jira Agile, Confluence, SharePoint, ServiceNow
+
+## ForgeRock upgrade for Scotiabank
+<p align="center">
+<img src="/assets/images/logos/scotia.png"  height="100">
+</p>
 ### Business problem
 
 ForgeRock is an identity and access management platform. 
@@ -40,7 +66,9 @@ ForgeRock is an identity and access management platform.
 * Project completed under budget.
 
 ## Pennsylvania regulated gambling market
-
+<p align="center">
+<img src="/assets/images/logos/pokerstars.jpg"  height="100">
+</p>
 ### Business problem
 
 1. After the [Black Friday](https://www.poker-king.com/dictionary/black-friday/) of 2011, online poker became illegal in the United States.
@@ -64,10 +92,6 @@ The project had an unmovable launch date of Nov 4, 2019, in order to not only be
 
 Real money offering successfully launched on Nov 4, 2019, making PokerStars the first company to enter this new regulated market.
 
-## Fusion game for PokerStars
-
-2018\. New Fusion game increased overall cash games revenue by 9%.
-
 ## Credential management for Falabella
 
 <p align="center">
@@ -86,7 +110,7 @@ Security enhancement due to new user authentication mechanism. False-positive ra
 
 ## Business intelligence for a Top-10 Russian bank
 
-2014\. Implementation of business intelligence and financial analytics system, including building of ETL, data warehouse and reporting engine. 
+2014. Implementation of business intelligence and financial analytics system, including building of ETL, data warehouse and reporting engine. 
 
 ### Results
 

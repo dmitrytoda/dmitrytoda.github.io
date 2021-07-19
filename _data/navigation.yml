@@ -19,6 +19,10 @@ sidebar-ds:
     children:
       - title: "Overview"
         url: /ds/WordAlign
+      - title: "Paper abstract"
+        url: /ds/WordAlign/PaCor
+      - title: "Presentation"
+        url: /ds/WordAlign/presentation
   - title: "Swift Predict"
     children:
       - title: "Overview"
@@ -50,6 +54,8 @@ sidebar-pm:
     children:
       - title: "Overview"
         url: /pm
+      - title: "Demand prediction for lululemon"
+        url: /pm/#demand-prediction-and-visualization-for-lululemon
       - title: "ForgeRock upgrade for Scotiabank"
         url: /pm/#forgerock-upgrade-for-scotiabank
       - title: "Pennsylvania gambling market"
@@ -78,3 +84,5 @@ sidebar-art:
     children:
       - title: "Mountain road 山行"
         url: /calligraphy/#mountain-road-山行
+      - title: "Life of Cao Quan 曹全碑"
+        url: /calligraphy/#life-and-death-of-cao-quan-%E6%9B%B9%E5%85%A8%E7%A2%91

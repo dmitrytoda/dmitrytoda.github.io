@@ -19,13 +19,15 @@ This is an example of what word alignment looks like for a short sentence. If th
 
 
 Example of alignment for the word "carriage" (карета / 车 or 马车) in UI:
+
 ![Carriage](/assets/images/wordalign/carriage.png "Carriage")
 
 For this project, I am collaborating with a team of linguists, machine learning engineers and software developers from the [Russian Language Institute](http://www.ruslang.ru/) of Russian Academy of Sciences and [Higher School of Economics](https://www.hse.ru/en/).
 
 **Project overview:**
-* Extracting word alignments from BERT's contextualized word embeddings, as suggested in [Word Alignment by Fine-tuning Embeddings on Parallel Corpora](https://arxiv.org/abs/2101.08231) by Dou, Zi-Yi and Neubig, Graham
-* Further fine-tuning pretrained BERT on unique Russian-Chinese parallel corpus of 2.3 million words / 779,632 sentence pairs
-* Working with a team of Chinese language experts to produce ~500 gold standard sentence pairs, manually aligned on word level, to be used as a test set
+* Extracting word alignments from BERT and LaBSE's contextualized word embeddings, as suggested in [Word Alignment by Fine-tuning Embeddings on Parallel Corpora](https://arxiv.org/abs/2101.08231) by Dou, Zi-Yi and Neubig, Graham
+* Further fine-tuning pretrained BERT and LaBSE on unique Russian-Chinese parallel corpus of 2.3 million words / 779,632 sentence pairs
+* Working with a team of Chinese language experts to produce ~500 gold standard sentence pairs, manually aligned on word level, to be used for further fine-tuning in supervised learning mode and as test set
 * Putting the model to work in production, highlighting specific word translations in different contexts
-* Planned launch date - May 2021
+* Planned launch date - September 2021
+* Preliminary results presented at [International Symposium PaCor 2021](https://www.ehu.eus/en/web/pacor2020/aurkezpena) at the University of Basque Country (see [paper abstract](/ds/WordAlign/PaCor) and [slide deck](/ds/WordAlign/presentation))
